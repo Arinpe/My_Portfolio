@@ -13,18 +13,18 @@
 
 1. Open Terminal.
 2. Navigate to your desired location to download the contents of this repository.
-3. Copy and paste the following code into the Terminal: git clone https://github.com/AkintoyeOlamide/Portfolio
+3. Copy and paste the following code into the Terminal: git clone https://github.com/Arinpe/My_Portfolio
 4. Run ```cd Portfolio``.
 
 
-## Author Details::
+## Author Details:
 
-👤 **Akintoye Olamide**
+👤 **Adesuyi Adetola**
 
-- Github: [@Akintoyeolamide](https://github.com/AkintoyeOlamide/myportfolio)
-- Linkedin: [@akintoyeolamide](https://www.linkedin.com/in/akintoye-olamide-baa80b1a4/)
-- E-mail: <a href="mailto:akintoyeolamide500@gmail.com?subject=Hello Olamide!">Email</a>  
-- Twitter: [@Akintoyeolamide](https://twitter.com/@toshactL)
+- Github: [@Arinpe](https://github.com/Arinpe/My_Portfolio)
+- Linkedin: [@Adesuyi Adetola](https://www.linkedin.com/in/aadetola/)
+- E-mail: <a href="mailto:dehtolah@gmail.com?subject=Hello Adetola!">Email</a>  
+- Twitter: [@_detola_](https://twitter.com/_detola_)
 
 
 ## Show your support
