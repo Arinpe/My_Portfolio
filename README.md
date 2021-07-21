@@ -17,7 +17,7 @@
 4. Run ```cd Portfolio``.
 
 
-live demo link: https://raw.githack.com/Arinpe/My_Portfolio/tree/feature
+live demo link: https://vigilant-allen-0e5958.netlify.app/
 
 ## Author Details:
 
