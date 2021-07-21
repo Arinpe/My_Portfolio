@@ -26,6 +26,7 @@
 - E-mail: <a href="mailto:dehtolah@gmail.com?subject=Hello Adetola!">Email</a>  
 - Twitter: [@_detola_](https://twitter.com/_detola_)
 
+[Live Demo](https://vigilant-allen-0e5958.netlify.app/)
 
 ## Show your support
 
