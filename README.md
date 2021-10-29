@@ -17,6 +17,8 @@
 4. Run ```cd Portfolio``.
 
 
+live demo link: https://vigilant-allen-0e5958.netlify.app/
+
 ## Author Details:
 
 👤 **Adesuyi Adetola**
