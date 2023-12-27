@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# My_Portfolio
-This is built with HTML/ Css, JavaScript as well as Bootstrap. This is a project used show case my portolio
-=======
 # My Portfolio
 
 # Screenshot
@@ -21,7 +17,7 @@ This is built with HTML/ Css, JavaScript as well as Bootstrap. This is a project
 4. Run ```cd Portfolio``.
 
 
-live demo link: https://vigilant-allen-0e5958.netlify.app/
+live demo link: 
 
 ## Author Details:
 
@@ -30,9 +26,8 @@ live demo link: https://vigilant-allen-0e5958.netlify.app/
 - Github: [@Arinpe](https://github.com/Arinpe/My_Portfolio)
 - Linkedin: [@Adesuyi Adetola](https://www.linkedin.com/in/aadetola/)
 - E-mail: <a href="mailto:dehtolah@gmail.com?subject=Hello Adetola!">Email</a>  
-- Twitter: [@_detola_](https://twitter.com/_detola_)
 
-[Live Demo](https://vigilant-allen-0e5958.netlify.app/)
+[Live Demo]()
 
 ## Show your support
 
@@ -41,4 +36,3 @@ Give ⭐ Star me on GitHub — it helps!
 ## 📝 License
 
 This project is [MIT](lic.url) licensed.   
->>>>>>> af9337e3c5dcaa83027b2884b36134c79a7bba6a
